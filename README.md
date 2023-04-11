@@ -1,3 +1,3 @@
 # computer-graphics-lab
-lab assignments and other work, 
-includes cpp files 
+lab assignments and other work,
+using opengl
